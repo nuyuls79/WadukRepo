@@ -1,0 +1,9 @@
+{
+    "name": "ExtCloud (archived)",
+    "description": "Cloudstream extensions collection",
+    "iconUrl": "https://avatars.githubusercontent.com/u/114850487?v=4",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/nuyuls79/ExtCloud/builds/plugins.json"
+    ]
+}
