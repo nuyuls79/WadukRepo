@@ -11,8 +11,6 @@ on:
       - main
     paths:
       - waduk.json
-    paths-ignore:
-      - "*.md"
 
 jobs:
   build:
