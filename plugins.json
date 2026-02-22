@@ -1,0 +1,17 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/nuyuls79/WadukRepo/builds/waduk.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "waduk",
+        "internalName": "waduk",
+        "authors": [
+            
+        ],
+        "description": "This plugin adds all repositories each time the app is opened. Uninstall after one run if you do not want all repositories. Does not automatically refresh the repository list.",
+        "fileSize": 7904,
+        "repositoryUrl": "https://github.com/nuyuls79/WadukRepo",
+        "language": "id",
+        "apiVersion": 1
+    }
+]
