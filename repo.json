@@ -1,8 +1,8 @@
-{
-    "name": "Waduk Repo ID",
-    "description": "Add all repositories easily.",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/nuyuls79/WadukRepo/builds/plugins.json"
-    ]
-}
+[
+  {
+    "name": "Wdk Repo",
+    "author": "nuyuls79",
+    "url": "https://raw.githubusercontent.com/nuyuls79/WadukRepo/builds/plugins.json",
+    "description": "Waduk plugin repo"
+  }
+]
